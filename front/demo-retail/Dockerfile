@@ -1,8 +1,6 @@
 # frontend/Dockerfile
 FROM node:16.3.0-alpine AS prod
 
-ARG MODEL
-ENV MODEL=$MODEL
 
 WORKDIR /app
 COPY package.json /app
