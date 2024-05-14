@@ -13,7 +13,7 @@ RUN npm run build
 
 FROM nginx:alpine
 
-USER ROOT
+USER root
 
 RUN chgrp -R 0 /usr && chmod -R g=u /usr && chmod -R +rwX /usr
 WORKDIR /usr/local/bin
@@ -26,6 +26,8 @@ COPY custom-nginx.template /etc/nginx/conf.d/
 
 RUN chmod +x generate-config.sh
 
-EXPOSE 80
+USER 1001
+
+EXPOSE 8080
 
 ENTRYPOINT [ "/bin/sh", "generate-config.sh"]
