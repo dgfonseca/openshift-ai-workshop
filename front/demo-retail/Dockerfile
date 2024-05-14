@@ -26,6 +26,7 @@ COPY custom-nginx.template /etc/nginx/conf.d/
 RUN chgrp -R 0 /usr && chmod -R g=u /usr && chmod -R +rwX /usr
 RUN chgrp -R 0 /etc/nginx && chmod -R g=u /etc/nginx && chmod -R +rwX /etc/nginx
 RUN chgrp -R 0 /var/cache && chmod -R g=u /var/cache && chmod -R +rwX /var/cache
+RUN chgrp -R root /var/cache/nginx /var/run /var/log/nginx && chmod -R 770 /var/cache/nginx /var/run /var/log/nginx
 
 RUN chmod +x generate-config.sh
 
