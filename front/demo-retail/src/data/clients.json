@@ -1,0 +1,5602 @@
+[
+    {
+      "CustomerID": 1,
+      "Nombre": "Granville Baldwin",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 15,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 2,
+      "Nombre": "Alonso Aguilar",
+      "Gender": "Male",
+      "Age": 21,
+      "Annual_Income": 15,
+      "Spending_Score_(1-100)": 81
+    },
+    {
+      "CustomerID": 3,
+      "Nombre": "Isaias Roy",
+      "Gender": "Female",
+      "Age": 20,
+      "Annual_Income": 16,
+      "Spending_Score_(1-100)": 6
+    },
+    {
+      "CustomerID": 4,
+      "Nombre": "Normand Sexton",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 16,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 5,
+      "Nombre": "Brenton Benitez",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 6,
+      "Nombre": "Tasha Goodman",
+      "Gender": "Female",
+      "Age": 22,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 7,
+      "Nombre": "Shayne Christensen",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 18,
+      "Spending_Score_(1-100)": 6
+    },
+    {
+      "CustomerID": 8,
+      "Nombre": "Mathew Herrera",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 18,
+      "Spending_Score_(1-100)": 94
+    },
+    {
+      "CustomerID": 9,
+      "Nombre": "Marci Lynch",
+      "Gender": "Male",
+      "Age": 64,
+      "Annual_Income": 19,
+      "Spending_Score_(1-100)": 3
+    },
+    {
+      "CustomerID": 10,
+      "Nombre": "Giuseppe Pineda",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 19,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 11,
+      "Nombre": "Lorna Golden",
+      "Gender": "Male",
+      "Age": 67,
+      "Annual_Income": 19,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 12,
+      "Nombre": "Kim Nichols",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 19,
+      "Spending_Score_(1-100)": 99
+    },
+    {
+      "CustomerID": 13,
+      "Nombre": "Rory Watts",
+      "Gender": "Female",
+      "Age": 58,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 14,
+      "Nombre": "Tony Trevino",
+      "Gender": "Female",
+      "Age": 24,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 15,
+      "Nombre": "Roy Bean",
+      "Gender": "Male",
+      "Age": 37,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 13
+    },
+    {
+      "CustomerID": 16,
+      "Nombre": "Vito Gill",
+      "Gender": "Male",
+      "Age": 22,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 79
+    },
+    {
+      "CustomerID": 17,
+      "Nombre": "Lilia Ho",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 21,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 18,
+      "Nombre": "Dewitt Velez",
+      "Gender": "Male",
+      "Age": 20,
+      "Annual_Income": 21,
+      "Spending_Score_(1-100)": 66
+    },
+    {
+      "CustomerID": 19,
+      "Nombre": "Demarcus Callahan",
+      "Gender": "Male",
+      "Age": 52,
+      "Annual_Income": 23,
+      "Spending_Score_(1-100)": 29
+    },
+    {
+      "CustomerID": 20,
+      "Nombre": "Josefina Shaffer",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 23,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 21,
+      "Nombre": "Frances Acevedo",
+      "Gender": "Male",
+      "Age": 35,
+      "Annual_Income": 24,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 22,
+      "Nombre": "Reyna Church",
+      "Gender": "Male",
+      "Age": 25,
+      "Annual_Income": 24,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 23,
+      "Nombre": "Gertrude May",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 25,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 24,
+      "Nombre": "Claudine Mckee",
+      "Gender": "Male",
+      "Age": 31,
+      "Annual_Income": 25,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 25,
+      "Nombre": "Zachery Farley",
+      "Gender": "Female",
+      "Age": 54,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 26,
+      "Nombre": "Nina Tran",
+      "Gender": "Male",
+      "Age": 29,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 82
+    },
+    {
+      "CustomerID": 27,
+      "Nombre": "Colin Hanna",
+      "Gender": "Female",
+      "Age": 45,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 28,
+      "Nombre": "Cassie Hardin",
+      "Gender": "Male",
+      "Age": 35,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 29,
+      "Nombre": "Serena Hendricks",
+      "Gender": "Female",
+      "Age": 40,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 31
+    },
+    {
+      "CustomerID": 30,
+      "Nombre": "Tamara Murphy",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 87
+    },
+    {
+      "CustomerID": 31,
+      "Nombre": "Ariel Copeland",
+      "Gender": "Male",
+      "Age": 60,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 4
+    },
+    {
+      "CustomerID": 32,
+      "Nombre": "Chong Mueller",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 33,
+      "Nombre": "Edmond Cannon",
+      "Gender": "Male",
+      "Age": 53,
+      "Annual_Income": 33,
+      "Spending_Score_(1-100)": 4
+    },
+    {
+      "CustomerID": 34,
+      "Nombre": "Lacy Villarreal",
+      "Gender": "Male",
+      "Age": 18,
+      "Annual_Income": 33,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 35,
+      "Nombre": "Archie Mcbride",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 33,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 36,
+      "Nombre": "Mikel Rodgers",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 33,
+      "Spending_Score_(1-100)": 81
+    },
+    {
+      "CustomerID": 37,
+      "Nombre": "Prince Rosales",
+      "Gender": "Female",
+      "Age": 42,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 38,
+      "Nombre": "Ethan Young",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 39,
+      "Nombre": "Dena Colon",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 37,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 40,
+      "Nombre": "Francis Hurley",
+      "Gender": "Female",
+      "Age": 20,
+      "Annual_Income": 37,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 41,
+      "Nombre": "Hannah Cain",
+      "Gender": "Female",
+      "Age": 65,
+      "Annual_Income": 38,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 42,
+      "Nombre": "Lynnette Berry",
+      "Gender": "Male",
+      "Age": 24,
+      "Annual_Income": 38,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 43,
+      "Nombre": "Kirby Ingram",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 39,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 44,
+      "Nombre": "Deirdre Caldwell",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 39,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 45,
+      "Nombre": "Ramona Zavala",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 39,
+      "Spending_Score_(1-100)": 28
+    },
+    {
+      "CustomerID": 46,
+      "Nombre": "Carmelo Schmitt",
+      "Gender": "Female",
+      "Age": 24,
+      "Annual_Income": 39,
+      "Spending_Score_(1-100)": 65
+    },
+    {
+      "CustomerID": 47,
+      "Nombre": "Socorro Wheeler",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 40,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 48,
+      "Nombre": "Ollie Case",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 40,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 49,
+      "Nombre": "Marcelo Gardner",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 40,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 50,
+      "Nombre": "Korey Newman",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 40,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 51,
+      "Nombre": "Edwardo Frost",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 42,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 52,
+      "Nombre": "Vicki Stone",
+      "Gender": "Male",
+      "Age": 33,
+      "Annual_Income": 42,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 53,
+      "Nombre": "Harley Hood",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 54,
+      "Nombre": "Dixie Reynolds",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 55,
+      "Nombre": "Angelina Gaines",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 56,
+      "Nombre": "Rico Glass",
+      "Gender": "Male",
+      "Age": 47,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 41
+    },
+    {
+      "CustomerID": 57,
+      "Nombre": "Santo Kramer",
+      "Gender": "Female",
+      "Age": 51,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 58,
+      "Nombre": "Dorothea Hill",
+      "Gender": "Male",
+      "Age": 69,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 59,
+      "Nombre": "Ahmad Mcdowell",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 51
+    },
+    {
+      "CustomerID": 60,
+      "Nombre": "Sheree Mccall",
+      "Gender": "Male",
+      "Age": 53,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 61,
+      "Nombre": "Marcella Carroll",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 62,
+      "Nombre": "Hallie Glover",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 63,
+      "Nombre": "Brandy Contreras",
+      "Gender": "Female",
+      "Age": 67,
+      "Annual_Income": 47,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 64,
+      "Nombre": "Jacquelyn Gallagher",
+      "Gender": "Female",
+      "Age": 54,
+      "Annual_Income": 47,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 65,
+      "Nombre": "Wes Riley",
+      "Gender": "Male",
+      "Age": 63,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 51
+    },
+    {
+      "CustomerID": 66,
+      "Nombre": "Cleveland Ball",
+      "Gender": "Male",
+      "Age": 18,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 67,
+      "Nombre": "Marta Juarez",
+      "Gender": "Female",
+      "Age": 43,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 68,
+      "Nombre": "Horace Ellis",
+      "Gender": "Female",
+      "Age": 68,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 69,
+      "Nombre": "Marjorie Thornton",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 70,
+      "Nombre": "Giovanni Evans",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 71,
+      "Nombre": "Nellie Gould",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 49,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 72,
+      "Nombre": "Chance Rivera",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 49,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 73,
+      "Nombre": "Lucien Frey",
+      "Gender": "Female",
+      "Age": 60,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 74,
+      "Nombre": "Melva Oconnell",
+      "Gender": "Female",
+      "Age": 60,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 75,
+      "Nombre": "Tamera Dunn",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 76,
+      "Nombre": "Iris Neal",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 77,
+      "Nombre": "Deshawn Lopez",
+      "Gender": "Female",
+      "Age": 45,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 53
+    },
+    {
+      "CustomerID": 78,
+      "Nombre": "Denny Kelly",
+      "Gender": "Male",
+      "Age": 40,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 79,
+      "Nombre": "Elijah Sandoval",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 80,
+      "Nombre": "Lionel Finley",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 81,
+      "Nombre": "Guadalupe Valdez",
+      "Gender": "Male",
+      "Age": 57,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 51
+    },
+    {
+      "CustomerID": 82,
+      "Nombre": "Lazaro Lin",
+      "Gender": "Male",
+      "Age": 38,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 83,
+      "Nombre": "Theodore Hanna",
+      "Gender": "Male",
+      "Age": 67,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 41
+    },
+    {
+      "CustomerID": 84,
+      "Nombre": "Isreal Davidson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 44
+    },
+    {
+      "CustomerID": 85,
+      "Nombre": "Anibal Pittman",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 86,
+      "Nombre": "Allie Walters",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 87,
+      "Nombre": "Sheryl Jensen",
+      "Gender": "Female",
+      "Age": 55,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 88,
+      "Nombre": "Alfred Rosario",
+      "Gender": "Female",
+      "Age": 22,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 89,
+      "Nombre": "Daron Townsend",
+      "Gender": "Female",
+      "Age": 34,
+      "Annual_Income": 58,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 90,
+      "Nombre": "Scotty Mccarthy",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 58,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 91,
+      "Nombre": "Everett Franklin",
+      "Gender": "Female",
+      "Age": 68,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 92,
+      "Nombre": "Suzette Ramsey",
+      "Gender": "Male",
+      "Age": 18,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 41
+    },
+    {
+      "CustomerID": 93,
+      "Nombre": "Renee Ruiz",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 94,
+      "Nombre": "Quinton Maxwell",
+      "Gender": "Female",
+      "Age": 40,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 95,
+      "Nombre": "Margarita Mckee",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 96,
+      "Nombre": "Kendrick Shaw",
+      "Gender": "Male",
+      "Age": 24,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 97,
+      "Nombre": "Monica Hogan",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 98,
+      "Nombre": "Anita House",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 99,
+      "Nombre": "Dillon Suarez",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 100,
+      "Nombre": "Cedrick Schaefer",
+      "Gender": "Male",
+      "Age": 20,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 101,
+      "Nombre": "Helen Chandler",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 41
+    },
+    {
+      "CustomerID": 102,
+      "Nombre": "Dorthy Chavez",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 103,
+      "Nombre": "Wendi Mata",
+      "Gender": "Male",
+      "Age": 67,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 104,
+      "Nombre": "Owen Hunter",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 105,
+      "Nombre": "Javier Melton",
+      "Gender": "Male",
+      "Age": 49,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 106,
+      "Nombre": "Otto Carr",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 107,
+      "Nombre": "Lucy Webb",
+      "Gender": "Female",
+      "Age": 66,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 108,
+      "Nombre": "Christoper Gaines",
+      "Gender": "Male",
+      "Age": 54,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 109,
+      "Nombre": "Marshall Mora",
+      "Gender": "Male",
+      "Age": 68,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 110,
+      "Nombre": "Houston Torres",
+      "Gender": "Male",
+      "Age": 66,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 111,
+      "Nombre": "Antone Archer",
+      "Gender": "Male",
+      "Age": 65,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 112,
+      "Nombre": "Dominique Perry",
+      "Gender": "Female",
+      "Age": 19,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 113,
+      "Nombre": "Pearlie Woodard",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 114,
+      "Nombre": "Isidro Mejia",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 115,
+      "Nombre": "Denny Chung",
+      "Gender": "Female",
+      "Age": 18,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 116,
+      "Nombre": "Allen Drake",
+      "Gender": "Female",
+      "Age": 19,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 117,
+      "Nombre": "Andres Thomas",
+      "Gender": "Female",
+      "Age": 63,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 118,
+      "Nombre": "Chi Hobbs",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 119,
+      "Nombre": "Jan Mcbride",
+      "Gender": "Female",
+      "Age": 51,
+      "Annual_Income": 67,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 120,
+      "Nombre": "Juan Miller",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 67,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 121,
+      "Nombre": "Benita Becker",
+      "Gender": "Male",
+      "Age": 27,
+      "Annual_Income": 67,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 122,
+      "Nombre": "Amie Mckee",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 67,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 123,
+      "Nombre": "Irwin Boone",
+      "Gender": "Female",
+      "Age": 40,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 124,
+      "Nombre": "Kris Lynch",
+      "Gender": "Male",
+      "Age": 39,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 91
+    },
+    {
+      "CustomerID": 125,
+      "Nombre": "Gena Hendrix",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 29
+    },
+    {
+      "CustomerID": 126,
+      "Nombre": "Mac Delacruz",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 127,
+      "Nombre": "Noe Gamble",
+      "Gender": "Male",
+      "Age": 43,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 128,
+      "Nombre": "Valentin Galloway",
+      "Gender": "Male",
+      "Age": 40,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 95
+    },
+    {
+      "CustomerID": 129,
+      "Nombre": "Wilma David",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 130,
+      "Nombre": "Jewel Robles",
+      "Gender": "Male",
+      "Age": 38,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 131,
+      "Nombre": "Nathanael Gardner",
+      "Gender": "Male",
+      "Age": 47,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 132,
+      "Nombre": "Jeremiah Lamb",
+      "Gender": "Male",
+      "Age": 39,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 133,
+      "Nombre": "Chad Ramirez",
+      "Gender": "Female",
+      "Age": 25,
+      "Annual_Income": 72,
+      "Spending_Score_(1-100)": 34
+    },
+    {
+      "CustomerID": 134,
+      "Nombre": "Reuben Good",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 72,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 135,
+      "Nombre": "Emilio Quinn",
+      "Gender": "Male",
+      "Age": 20,
+      "Annual_Income": 73,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 136,
+      "Nombre": "Claudette Grimes",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 73,
+      "Spending_Score_(1-100)": 88
+    },
+    {
+      "CustomerID": 137,
+      "Nombre": "Erna Walsh",
+      "Gender": "Female",
+      "Age": 44,
+      "Annual_Income": 73,
+      "Spending_Score_(1-100)": 7
+    },
+    {
+      "CustomerID": 138,
+      "Nombre": "Jesus Bates",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 73,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 139,
+      "Nombre": "Ty Garza",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 74,
+      "Spending_Score_(1-100)": 10
+    },
+    {
+      "CustomerID": 140,
+      "Nombre": "Tamara Atkinson",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 74,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 141,
+      "Nombre": "Laurel Espinoza",
+      "Gender": "Female",
+      "Age": 57,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 142,
+      "Nombre": "Hope Bowen",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 93
+    },
+    {
+      "CustomerID": 143,
+      "Nombre": "Salvador Ross",
+      "Gender": "Female",
+      "Age": 28,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 144,
+      "Nombre": "Alison Hansen",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 87
+    },
+    {
+      "CustomerID": 145,
+      "Nombre": "Darren Hahn",
+      "Gender": "Male",
+      "Age": 25,
+      "Annual_Income": 77,
+      "Spending_Score_(1-100)": 12
+    },
+    {
+      "CustomerID": 146,
+      "Nombre": "Archie Olson",
+      "Gender": "Male",
+      "Age": 28,
+      "Annual_Income": 77,
+      "Spending_Score_(1-100)": 97
+    },
+    {
+      "CustomerID": 147,
+      "Nombre": "Wanda Ferguson",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 77,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 148,
+      "Nombre": "Erwin Castaneda",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 77,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 149,
+      "Nombre": "Nanette Stokes",
+      "Gender": "Female",
+      "Age": 34,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 22
+    },
+    {
+      "CustomerID": 150,
+      "Nombre": "Paulette Rice",
+      "Gender": "Male",
+      "Age": 34,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 151,
+      "Nombre": "Arnold Novak",
+      "Gender": "Male",
+      "Age": 43,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 152,
+      "Nombre": "Stephen Oconnell",
+      "Gender": "Male",
+      "Age": 39,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 88
+    },
+    {
+      "CustomerID": 153,
+      "Nombre": "Jeramy Harrell",
+      "Gender": "Female",
+      "Age": 44,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 20
+    },
+    {
+      "CustomerID": 154,
+      "Nombre": "Penelope Mcpherson",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 155,
+      "Nombre": "Willa Wagner",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 156,
+      "Nombre": "Corine Diaz",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 89
+    },
+    {
+      "CustomerID": 157,
+      "Nombre": "Dion Robinson",
+      "Gender": "Male",
+      "Age": 37,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 1
+    },
+    {
+      "CustomerID": 158,
+      "Nombre": "Elnora Cantu",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 78
+    },
+    {
+      "CustomerID": 159,
+      "Nombre": "Reed Ward",
+      "Gender": "Male",
+      "Age": 34,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 1
+    },
+    {
+      "CustomerID": 160,
+      "Nombre": "Juanita Alvarado",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 161,
+      "Nombre": "Veronica Frost",
+      "Gender": "Female",
+      "Age": 56,
+      "Annual_Income": 79,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 162,
+      "Nombre": "Raphael Nixon",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 79,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 163,
+      "Nombre": "Simone Harvey",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 81,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 164,
+      "Nombre": "Delia Wilcox",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 81,
+      "Spending_Score_(1-100)": 93
+    },
+    {
+      "CustomerID": 165,
+      "Nombre": "Walker Kane",
+      "Gender": "Male",
+      "Age": 50,
+      "Annual_Income": 85,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 166,
+      "Nombre": "Wilford Marquez",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 85,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 167,
+      "Nombre": "Ernest Fields",
+      "Gender": "Male",
+      "Age": 42,
+      "Annual_Income": 86,
+      "Spending_Score_(1-100)": 20
+    },
+    {
+      "CustomerID": 168,
+      "Nombre": "Merle Le",
+      "Gender": "Female",
+      "Age": 33,
+      "Annual_Income": 86,
+      "Spending_Score_(1-100)": 95
+    },
+    {
+      "CustomerID": 169,
+      "Nombre": "Janine Erickson",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 170,
+      "Nombre": "Shelby Andrade",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 171,
+      "Nombre": "Wanda Sloan",
+      "Gender": "Male",
+      "Age": 40,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 13
+    },
+    {
+      "CustomerID": 172,
+      "Nombre": "Lester Bowman",
+      "Gender": "Male",
+      "Age": 28,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 173,
+      "Nombre": "Wilton Finley",
+      "Gender": "Male",
+      "Age": 36,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 10
+    },
+    {
+      "CustomerID": 174,
+      "Nombre": "Bryon Herring",
+      "Gender": "Male",
+      "Age": 36,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 175,
+      "Nombre": "Emma Bennett",
+      "Gender": "Female",
+      "Age": 52,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 13
+    },
+    {
+      "CustomerID": 176,
+      "Nombre": "Christy Bradshaw",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 86
+    },
+    {
+      "CustomerID": 177,
+      "Nombre": "Booker Mayer",
+      "Gender": "Male",
+      "Age": 58,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 178,
+      "Nombre": "Kathy Mcbride",
+      "Gender": "Male",
+      "Age": 27,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 69
+    },
+    {
+      "CustomerID": 179,
+      "Nombre": "Jerrold Pierce",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 93,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 180,
+      "Nombre": "Armando Cohen",
+      "Gender": "Male",
+      "Age": 35,
+      "Annual_Income": 93,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 181,
+      "Nombre": "Lonnie Woodward",
+      "Gender": "Female",
+      "Age": 37,
+      "Annual_Income": 97,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 182,
+      "Nombre": "Erna Stanley",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 97,
+      "Spending_Score_(1-100)": 86
+    },
+    {
+      "CustomerID": 183,
+      "Nombre": "Lesa Good",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 98,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 184,
+      "Nombre": "Robyn Hensley",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 98,
+      "Spending_Score_(1-100)": 88
+    },
+    {
+      "CustomerID": 185,
+      "Nombre": "Willis Roberts",
+      "Gender": "Female",
+      "Age": 41,
+      "Annual_Income": 99,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 186,
+      "Nombre": "Chet Rose",
+      "Gender": "Male",
+      "Age": 30,
+      "Annual_Income": 99,
+      "Spending_Score_(1-100)": 97
+    },
+    {
+      "CustomerID": 187,
+      "Nombre": "Barbara Frazier",
+      "Gender": "Female",
+      "Age": 54,
+      "Annual_Income": 101,
+      "Spending_Score_(1-100)": 24
+    },
+    {
+      "CustomerID": 188,
+      "Nombre": "Minnie Goodwin",
+      "Gender": "Male",
+      "Age": 28,
+      "Annual_Income": 101,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 189,
+      "Nombre": "Jose Gibson",
+      "Gender": "Female",
+      "Age": 41,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 190,
+      "Nombre": "Jacklyn Welch",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 85
+    },
+    {
+      "CustomerID": 191,
+      "Nombre": "Erin Wood",
+      "Gender": "Female",
+      "Age": 34,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 23
+    },
+    {
+      "CustomerID": 192,
+      "Nombre": "Lou Riggs",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 69
+    },
+    {
+      "CustomerID": 193,
+      "Nombre": "Carole Chapman",
+      "Gender": "Male",
+      "Age": 33,
+      "Annual_Income": 113,
+      "Spending_Score_(1-100)": 8
+    },
+    {
+      "CustomerID": 194,
+      "Nombre": "Elizabeth Irwin",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 113,
+      "Spending_Score_(1-100)": 91
+    },
+    {
+      "CustomerID": 195,
+      "Nombre": "Leslie Cortez",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 120,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 196,
+      "Nombre": "Anibal Lamb",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 120,
+      "Spending_Score_(1-100)": 79
+    },
+    {
+      "CustomerID": 197,
+      "Nombre": "Brandy Carpenter",
+      "Gender": "Female",
+      "Age": 45,
+      "Annual_Income": 126,
+      "Spending_Score_(1-100)": 28
+    },
+    {
+      "CustomerID": 198,
+      "Nombre": "Lacy Huynh",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 126,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 199,
+      "Nombre": "Lara Carr",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 137,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 200,
+      "Nombre": "Ernestine Schaefer",
+      "Gender": "Male",
+      "Age": 30,
+      "Annual_Income": 137,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 201,
+      "Nombre": "Kara Bates",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 202,
+      "Nombre": "Julius Zamora",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 86,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 203,
+      "Nombre": "Jane Nelson",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 68,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 204,
+      "Nombre": "Leigh Hogan",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 26,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 205,
+      "Nombre": "Deirdre Vaughn",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 78
+    },
+    {
+      "CustomerID": 206,
+      "Nombre": "Glen Zavala",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 207,
+      "Nombre": "Jean Kelley",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 208,
+      "Nombre": "Mercedes Mejia",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 209,
+      "Nombre": "Leo Krause",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 3
+    },
+    {
+      "CustomerID": 210,
+      "Nombre": "Dollie Garner",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 211,
+      "Nombre": "Omar Newman",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 212,
+      "Nombre": "Wilfred Conrad",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 53,
+      "Spending_Score_(1-100)": 37
+    },
+    {
+      "CustomerID": 213,
+      "Nombre": "Trenton Robinson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 214,
+      "Nombre": "Darron Rowe",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 215,
+      "Nombre": "Hollis Hansen",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 216,
+      "Nombre": "Rita Roy",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 217,
+      "Nombre": "Jesus Barron",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 218,
+      "Nombre": "Michelle Reed",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 219,
+      "Nombre": "Lesa Kidd",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 82,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 220,
+      "Nombre": "Mollie Barr",
+      "Gender": "Male",
+      "Age": 85,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 221,
+      "Nombre": "Kieth Cantu",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 45,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 222,
+      "Nombre": "Juliet Potts",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 223,
+      "Nombre": "Claudia French",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 150,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 224,
+      "Nombre": "Aaron Benton",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 55,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 225,
+      "Nombre": "Peggy Cisneros",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 226,
+      "Nombre": "Sterling Harrison",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 227,
+      "Nombre": "Luz Carey",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 228,
+      "Nombre": "Leroy Graves",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 119,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 229,
+      "Nombre": "Allen Scott",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 33,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 230,
+      "Nombre": "Beatriz Hawkins",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 231,
+      "Nombre": "Marquis Cline",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 138,
+      "Spending_Score_(1-100)": 12
+    },
+    {
+      "CustomerID": 232,
+      "Nombre": "Myrtle Khan",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 120,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 233,
+      "Nombre": "Nicholas Daugherty",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 41,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 234,
+      "Nombre": "James Christian",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 235,
+      "Nombre": "Terrance Lamb",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 133,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 236,
+      "Nombre": "Murray Briggs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 91,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 237,
+      "Nombre": "Warner Yates",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 21,
+      "Spending_Score_(1-100)": 97
+    },
+    {
+      "CustomerID": 238,
+      "Nombre": "Rashad Walker",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 239,
+      "Nombre": "Steve Wheeler",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 240,
+      "Nombre": "Milford Lester",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 96,
+      "Spending_Score_(1-100)": 95
+    },
+    {
+      "CustomerID": 241,
+      "Nombre": "Marion Burch",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 37,
+      "Spending_Score_(1-100)": 78
+    },
+    {
+      "CustomerID": 242,
+      "Nombre": "Virgie Lawson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 84,
+      "Spending_Score_(1-100)": 64
+    },
+    {
+      "CustomerID": 243,
+      "Nombre": "Sheila Dominguez",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 73,
+      "Spending_Score_(1-100)": 22
+    },
+    {
+      "CustomerID": 244,
+      "Nombre": "Judy Wolfe",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 245,
+      "Nombre": "Percy Hobbs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 105,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 246,
+      "Nombre": "Elvia Frederick",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 104,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 247,
+      "Nombre": "Aurora Kidd",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 248,
+      "Nombre": "Rosella Newton",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 108,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 249,
+      "Nombre": "Susie Ewing",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 250,
+      "Nombre": "Manual Fowler",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 15,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 201,
+      "Nombre": "Beatrice Bass",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 202,
+      "Nombre": "Jenna Reid",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 203,
+      "Nombre": "Irvin York",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 79
+    },
+    {
+      "CustomerID": 204,
+      "Nombre": "Gregg Davis",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 52,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 205,
+      "Nombre": "Rolando Wiley",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 206,
+      "Nombre": "Gail Barnes",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 70
+    },
+    {
+      "CustomerID": 207,
+      "Nombre": "Darwin Vance",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 123,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 208,
+      "Nombre": "Gilbert Perkins",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 209,
+      "Nombre": "Ray Malone",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 130,
+      "Spending_Score_(1-100)": 88
+    },
+    {
+      "CustomerID": 210,
+      "Nombre": "Arlen Cooper",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 211,
+      "Nombre": "Mavis Conway",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 212,
+      "Nombre": "Joanna Cherry",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 135,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 213,
+      "Nombre": "Jeff Meza",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 214,
+      "Nombre": "Katie Hunt",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 134,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 215,
+      "Nombre": "Jeanette Shea",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 216,
+      "Nombre": "Jerrod Huber",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 109,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 217,
+      "Nombre": "Jeri Carpenter",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 111,
+      "Spending_Score_(1-100)": 0
+    },
+    {
+      "CustomerID": 218,
+      "Nombre": "George Davies",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 66
+    },
+    {
+      "CustomerID": 219,
+      "Nombre": "Nicole Crosby",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 41,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 220,
+      "Nombre": "Jed Cohen",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 24
+    },
+    {
+      "CustomerID": 221,
+      "Nombre": "Rich Mckinney",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 222,
+      "Nombre": "Norris Simpson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 223,
+      "Nombre": "Teddy Salinas",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 224,
+      "Nombre": "Randall Rangel",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 225,
+      "Nombre": "Ola Pineda",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 72,
+      "Spending_Score_(1-100)": 4
+    },
+    {
+      "CustomerID": 226,
+      "Nombre": "Pasquale Ellis",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 66
+    },
+    {
+      "CustomerID": 227,
+      "Nombre": "Robby Stevens",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 78
+    },
+    {
+      "CustomerID": 228,
+      "Nombre": "Shawn Morgan",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 229,
+      "Nombre": "Verna Ayers",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 230,
+      "Nombre": "Celeste Mcknight",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 81,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 231,
+      "Nombre": "Samuel Barber",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 125,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 232,
+      "Nombre": "Mark Rowland",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 47,
+      "Spending_Score_(1-100)": 41
+    },
+    {
+      "CustomerID": 233,
+      "Nombre": "Palmer Hays",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 234,
+      "Nombre": "James Waller",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 235,
+      "Nombre": "Lester Frye",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 84,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 236,
+      "Nombre": "Eloise Spence",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 58,
+      "Spending_Score_(1-100)": 53
+    },
+    {
+      "CustomerID": 237,
+      "Nombre": "Grover Mcintyre",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 2
+    },
+    {
+      "CustomerID": 238,
+      "Nombre": "Emilio Dyer",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 55,
+      "Spending_Score_(1-100)": 95
+    },
+    {
+      "CustomerID": 239,
+      "Nombre": "Ernesto Riggs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 18,
+      "Spending_Score_(1-100)": 41
+    },
+    {
+      "CustomerID": 240,
+      "Nombre": "Roberto Miles",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 68,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 241,
+      "Nombre": "Milford Ramos",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 242,
+      "Nombre": "Marci Ibarra",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 77,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 243,
+      "Nombre": "Jayne Osborne",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 244,
+      "Nombre": "Jamar Stevenson",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 245,
+      "Nombre": "Wendell Baker",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 246,
+      "Nombre": "Isaac Vang",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 247,
+      "Nombre": "Joseph Drake",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 0
+    },
+    {
+      "CustomerID": 248,
+      "Nombre": "Bonita Mckenzie",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 249,
+      "Nombre": "Berta Hess",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 109,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 250,
+      "Nombre": "Shirley Sweeney",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 251,
+      "Nombre": "Noe Hogan",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 123,
+      "Spending_Score_(1-100)": 44
+    },
+    {
+      "CustomerID": 252,
+      "Nombre": "Nora Porter",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 253,
+      "Nombre": "Chandra Miranda",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 254,
+      "Nombre": "Devon Jarvis",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 255,
+      "Nombre": "Diego Glass",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 96,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 256,
+      "Nombre": "Tia Tran",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 52,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 257,
+      "Nombre": "Derick Boyd",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 41,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 258,
+      "Nombre": "Miranda Baxter",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 259,
+      "Nombre": "Madge Pitts",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 96,
+      "Spending_Score_(1-100)": 65
+    },
+    {
+      "CustomerID": 260,
+      "Nombre": "Cecilia Phillips",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 261,
+      "Nombre": "Lola Lambert",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 262,
+      "Nombre": "Kathie Mendoza",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 120,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 263,
+      "Nombre": "Ron Mooney",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 264,
+      "Nombre": "Alonzo Keith",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 99,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 265,
+      "Nombre": "Kristen Hardin",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 266,
+      "Nombre": "Lucius Rangel",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 267,
+      "Nombre": "Jeri Mcconnell",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 123,
+      "Spending_Score_(1-100)": 8
+    },
+    {
+      "CustomerID": 268,
+      "Nombre": "Xavier Peterson",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 37,
+      "Spending_Score_(1-100)": 51
+    },
+    {
+      "CustomerID": 269,
+      "Nombre": "Deshawn Liu",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 270,
+      "Nombre": "Cameron Mcclure",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 53,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 271,
+      "Nombre": "Clint Ferguson",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 147,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 272,
+      "Nombre": "Lucille Roach",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 80,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 273,
+      "Nombre": "Ericka Delacruz",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 92,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 274,
+      "Nombre": "Courtney Jefferson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 89
+    },
+    {
+      "CustomerID": 275,
+      "Nombre": "Benny Wilson",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 47,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 276,
+      "Nombre": "Gwen Webster",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 277,
+      "Nombre": "Leslie Graves",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 41,
+      "Spending_Score_(1-100)": 19
+    },
+    {
+      "CustomerID": 278,
+      "Nombre": "Mike Thompson",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 41,
+      "Spending_Score_(1-100)": 8
+    },
+    {
+      "CustomerID": 279,
+      "Nombre": "Ophelia Ford",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 53,
+      "Spending_Score_(1-100)": 99
+    },
+    {
+      "CustomerID": 280,
+      "Nombre": "Rosella Beck",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 281,
+      "Nombre": "Bud Davis",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 97,
+      "Spending_Score_(1-100)": 97
+    },
+    {
+      "CustomerID": 282,
+      "Nombre": "Ruth Pham",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 6
+    },
+    {
+      "CustomerID": 283,
+      "Nombre": "Franklyn Simpson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 284,
+      "Nombre": "Aurelia Spence",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 58,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 285,
+      "Nombre": "Luann Rodriguez",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 286,
+      "Nombre": "Gerard Blanchard",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 95,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 287,
+      "Nombre": "Royce Brooks",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 288,
+      "Nombre": "Mauro Romero",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 289,
+      "Nombre": "Leta Atkins",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 290,
+      "Nombre": "Helga Jordan",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 291,
+      "Nombre": "Sheree Jacobs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 51,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 292,
+      "Nombre": "Stacey Fischer",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 293,
+      "Nombre": "Melvin Petty",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 35,
+      "Spending_Score_(1-100)": 44
+    },
+    {
+      "CustomerID": 294,
+      "Nombre": "Tobias Rollins",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 81,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 295,
+      "Nombre": "Kari Franco",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 296,
+      "Nombre": "Brain Blake",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 297,
+      "Nombre": "Taylor Copeland",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 298,
+      "Nombre": "Emilio Richmond",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 68,
+      "Spending_Score_(1-100)": 0
+    },
+    {
+      "CustomerID": 299,
+      "Nombre": "Marla Lamb",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 300,
+      "Nombre": "Merlin Roberts",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 45,
+      "Spending_Score_(1-100)": 31
+    },
+    {
+      "CustomerID": 300,
+      "Nombre": "Granville Baldwin",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 27,
+      "Spending_Score_(1-100)": 94
+    },
+    {
+      "CustomerID": 301,
+      "Nombre": "Alonso Aguilar",
+      "Gender": "Male",
+      "Age": 21,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 94
+    },
+    {
+      "CustomerID": 302,
+      "Nombre": "Isaias Roy",
+      "Gender": "Female",
+      "Age": 20,
+      "Annual_Income": 73,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 303,
+      "Nombre": "Normand Sexton",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 18,
+      "Spending_Score_(1-100)": 25
+    },
+    {
+      "CustomerID": 304,
+      "Nombre": "Brenton Benitez",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 305,
+      "Nombre": "Tasha Goodman",
+      "Gender": "Female",
+      "Age": 22,
+      "Annual_Income": 129,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 306,
+      "Nombre": "Shayne Christensen",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 123,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 307,
+      "Nombre": "Mathew Herrera",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 68,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 308,
+      "Nombre": "Marci Lynch",
+      "Gender": "Male",
+      "Age": 64,
+      "Annual_Income": 131,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 309,
+      "Nombre": "Giuseppe Pineda",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 310,
+      "Nombre": "Lorna Golden",
+      "Gender": "Male",
+      "Age": 67,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 311,
+      "Nombre": "Kim Nichols",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 88
+    },
+    {
+      "CustomerID": 312,
+      "Nombre": "Rory Watts",
+      "Gender": "Female",
+      "Age": 58,
+      "Annual_Income": 114,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 313,
+      "Nombre": "Tony Trevino",
+      "Gender": "Female",
+      "Age": 24,
+      "Annual_Income": 146,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 314,
+      "Nombre": "Roy Bean",
+      "Gender": "Male",
+      "Age": 37,
+      "Annual_Income": 37,
+      "Spending_Score_(1-100)": 3
+    },
+    {
+      "CustomerID": 315,
+      "Nombre": "Vito Gill",
+      "Gender": "Male",
+      "Age": 22,
+      "Annual_Income": 16,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 316,
+      "Nombre": "Lilia Ho",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 52,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 317,
+      "Nombre": "Dewitt Velez",
+      "Gender": "Male",
+      "Age": 20,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 91
+    },
+    {
+      "CustomerID": 318,
+      "Nombre": "Demarcus Callahan",
+      "Gender": "Male",
+      "Age": 52,
+      "Annual_Income": 144,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 319,
+      "Nombre": "Josefina Shaffer",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 116,
+      "Spending_Score_(1-100)": 81
+    },
+    {
+      "CustomerID": 320,
+      "Nombre": "Frances Acevedo",
+      "Gender": "Male",
+      "Age": 35,
+      "Annual_Income": 117,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 321,
+      "Nombre": "Reyna Church",
+      "Gender": "Male",
+      "Age": 25,
+      "Annual_Income": 118,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 322,
+      "Nombre": "Gertrude May",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 79,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 323,
+      "Nombre": "Claudine Mckee",
+      "Gender": "Male",
+      "Age": 31,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 21
+    },
+    {
+      "CustomerID": 324,
+      "Nombre": "Zachery Farley",
+      "Gender": "Female",
+      "Age": 54,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 325,
+      "Nombre": "Nina Tran",
+      "Gender": "Male",
+      "Age": 29,
+      "Annual_Income": 129,
+      "Spending_Score_(1-100)": 51
+    },
+    {
+      "CustomerID": 326,
+      "Nombre": "Colin Hanna",
+      "Gender": "Female",
+      "Age": 45,
+      "Annual_Income": 149,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 327,
+      "Nombre": "Cassie Hardin",
+      "Gender": "Male",
+      "Age": 35,
+      "Annual_Income": 115,
+      "Spending_Score_(1-100)": 82
+    },
+    {
+      "CustomerID": 328,
+      "Nombre": "Serena Hendricks",
+      "Gender": "Female",
+      "Age": 40,
+      "Annual_Income": 124,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 329,
+      "Nombre": "Tamara Murphy",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 40,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 330,
+      "Nombre": "Ariel Copeland",
+      "Gender": "Male",
+      "Age": 60,
+      "Annual_Income": 136,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 331,
+      "Nombre": "Chong Mueller",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 113,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 332,
+      "Nombre": "Edmond Cannon",
+      "Gender": "Male",
+      "Age": 53,
+      "Annual_Income": 83,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 333,
+      "Nombre": "Lacy Villarreal",
+      "Gender": "Male",
+      "Age": 18,
+      "Annual_Income": 96,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 334,
+      "Nombre": "Archie Mcbride",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 132,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 335,
+      "Nombre": "Mikel Rodgers",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 33
+    },
+    {
+      "CustomerID": 336,
+      "Nombre": "Prince Rosales",
+      "Gender": "Female",
+      "Age": 42,
+      "Annual_Income": 45,
+      "Spending_Score_(1-100)": 24
+    },
+    {
+      "CustomerID": 337,
+      "Nombre": "Ethan Young",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 25,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 338,
+      "Nombre": "Dena Colon",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 132,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 339,
+      "Nombre": "Francis Hurley",
+      "Gender": "Female",
+      "Age": 20,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 340,
+      "Nombre": "Hannah Cain",
+      "Gender": "Female",
+      "Age": 65,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 341,
+      "Nombre": "Lynnette Berry",
+      "Gender": "Male",
+      "Age": 24,
+      "Annual_Income": 139,
+      "Spending_Score_(1-100)": 2
+    },
+    {
+      "CustomerID": 342,
+      "Nombre": "Kirby Ingram",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 27,
+      "Spending_Score_(1-100)": 51
+    },
+    {
+      "CustomerID": 343,
+      "Nombre": "Deirdre Caldwell",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 122,
+      "Spending_Score_(1-100)": 25
+    },
+    {
+      "CustomerID": 344,
+      "Nombre": "Ramona Zavala",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 31
+    },
+    {
+      "CustomerID": 345,
+      "Nombre": "Carmelo Schmitt",
+      "Gender": "Female",
+      "Age": 24,
+      "Annual_Income": 52,
+      "Spending_Score_(1-100)": 34
+    },
+    {
+      "CustomerID": 346,
+      "Nombre": "Socorro Wheeler",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 49,
+      "Spending_Score_(1-100)": 29
+    },
+    {
+      "CustomerID": 347,
+      "Nombre": "Ollie Case",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 110,
+      "Spending_Score_(1-100)": 34
+    },
+    {
+      "CustomerID": 348,
+      "Nombre": "Marcelo Gardner",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 109,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 349,
+      "Nombre": "Korey Newman",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 149,
+      "Spending_Score_(1-100)": 80
+    },
+    {
+      "CustomerID": 350,
+      "Nombre": "Edwardo Frost",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 135,
+      "Spending_Score_(1-100)": 85
+    },
+    {
+      "CustomerID": 351,
+      "Nombre": "Vicki Stone",
+      "Gender": "Male",
+      "Age": 33,
+      "Annual_Income": 31,
+      "Spending_Score_(1-100)": 20
+    },
+    {
+      "CustomerID": 352,
+      "Nombre": "Harley Hood",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 111,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 353,
+      "Nombre": "Dixie Reynolds",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 108,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 354,
+      "Nombre": "Angelina Gaines",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 139,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 355,
+      "Nombre": "Rico Glass",
+      "Gender": "Male",
+      "Age": 47,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 356,
+      "Nombre": "Santo Kramer",
+      "Gender": "Female",
+      "Age": 51,
+      "Annual_Income": 16,
+      "Spending_Score_(1-100)": 7
+    },
+    {
+      "CustomerID": 357,
+      "Nombre": "Dorothea Hill",
+      "Gender": "Male",
+      "Age": 69,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 64
+    },
+    {
+      "CustomerID": 358,
+      "Nombre": "Ahmad Mcdowell",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 108,
+      "Spending_Score_(1-100)": 19
+    },
+    {
+      "CustomerID": 359,
+      "Nombre": "Sheree Mccall",
+      "Gender": "Male",
+      "Age": 53,
+      "Annual_Income": 81,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 360,
+      "Nombre": "Marcella Carroll",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 62
+    },
+    {
+      "CustomerID": 361,
+      "Nombre": "Hallie Glover",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 24,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 362,
+      "Nombre": "Brandy Contreras",
+      "Gender": "Female",
+      "Age": 67,
+      "Annual_Income": 111,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 363,
+      "Nombre": "Jacquelyn Gallagher",
+      "Gender": "Female",
+      "Age": 54,
+      "Annual_Income": 51,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 364,
+      "Nombre": "Wes Riley",
+      "Gender": "Male",
+      "Age": 63,
+      "Annual_Income": 121,
+      "Spending_Score_(1-100)": 19
+    },
+    {
+      "CustomerID": 365,
+      "Nombre": "Cleveland Ball",
+      "Gender": "Male",
+      "Age": 18,
+      "Annual_Income": 93,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 366,
+      "Nombre": "Marta Juarez",
+      "Gender": "Female",
+      "Age": 43,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 367,
+      "Nombre": "Horace Ellis",
+      "Gender": "Female",
+      "Age": 68,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 368,
+      "Nombre": "Marjorie Thornton",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 44
+    },
+    {
+      "CustomerID": 369,
+      "Nombre": "Giovanni Evans",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 95,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 370,
+      "Nombre": "Nellie Gould",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 44
+    },
+    {
+      "CustomerID": 371,
+      "Nombre": "Chance Rivera",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 86
+    },
+    {
+      "CustomerID": 372,
+      "Nombre": "Lucien Frey",
+      "Gender": "Female",
+      "Age": 60,
+      "Annual_Income": 85,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 373,
+      "Nombre": "Melva Oconnell",
+      "Gender": "Female",
+      "Age": 60,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 62
+    },
+    {
+      "CustomerID": 374,
+      "Nombre": "Tamera Dunn",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 113,
+      "Spending_Score_(1-100)": 25
+    },
+    {
+      "CustomerID": 375,
+      "Nombre": "Iris Neal",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 85,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 376,
+      "Nombre": "Deshawn Lopez",
+      "Gender": "Female",
+      "Age": 45,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 377,
+      "Nombre": "Denny Kelly",
+      "Gender": "Male",
+      "Age": 40,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 378,
+      "Nombre": "Elijah Sandoval",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 379,
+      "Nombre": "Lionel Finley",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 141,
+      "Spending_Score_(1-100)": 82
+    },
+    {
+      "CustomerID": 380,
+      "Nombre": "Guadalupe Valdez",
+      "Gender": "Male",
+      "Age": 57,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 30
+    },
+    {
+      "CustomerID": 381,
+      "Nombre": "Lazaro Lin",
+      "Gender": "Male",
+      "Age": 38,
+      "Annual_Income": 40,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 382,
+      "Nombre": "Theodore Hanna",
+      "Gender": "Male",
+      "Age": 67,
+      "Annual_Income": 105,
+      "Spending_Score_(1-100)": 86
+    },
+    {
+      "CustomerID": 383,
+      "Nombre": "Isreal Davidson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 137,
+      "Spending_Score_(1-100)": 94
+    },
+    {
+      "CustomerID": 384,
+      "Nombre": "Anibal Pittman",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 385,
+      "Nombre": "Allie Walters",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 128,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 386,
+      "Nombre": "Sheryl Jensen",
+      "Gender": "Female",
+      "Age": 55,
+      "Annual_Income": 50,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 387,
+      "Nombre": "Alfred Rosario",
+      "Gender": "Female",
+      "Age": 22,
+      "Annual_Income": 38,
+      "Spending_Score_(1-100)": 33
+    },
+    {
+      "CustomerID": 388,
+      "Nombre": "Daron Townsend",
+      "Gender": "Female",
+      "Age": 34,
+      "Annual_Income": 26,
+      "Spending_Score_(1-100)": 99
+    },
+    {
+      "CustomerID": 389,
+      "Nombre": "Scotty Mccarthy",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 390,
+      "Nombre": "Everett Franklin",
+      "Gender": "Female",
+      "Age": 68,
+      "Annual_Income": 21,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 391,
+      "Nombre": "Suzette Ramsey",
+      "Gender": "Male",
+      "Age": 18,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 392,
+      "Nombre": "Renee Ruiz",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 41,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 393,
+      "Nombre": "Quinton Maxwell",
+      "Gender": "Female",
+      "Age": 40,
+      "Annual_Income": 114,
+      "Spending_Score_(1-100)": 28
+    },
+    {
+      "CustomerID": 394,
+      "Nombre": "Margarita Mckee",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 82
+    },
+    {
+      "CustomerID": 395,
+      "Nombre": "Kendrick Shaw",
+      "Gender": "Male",
+      "Age": 24,
+      "Annual_Income": 15,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 396,
+      "Nombre": "Monica Hogan",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 51,
+      "Spending_Score_(1-100)": 8
+    },
+    {
+      "CustomerID": 397,
+      "Nombre": "Anita House",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 116,
+      "Spending_Score_(1-100)": 32
+    },
+    {
+      "CustomerID": 398,
+      "Nombre": "Dillon Suarez",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 143,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 399,
+      "Nombre": "Cedrick Schaefer",
+      "Gender": "Male",
+      "Age": 20,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 28
+    },
+    {
+      "CustomerID": 400,
+      "Nombre": "Helen Chandler",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 401,
+      "Nombre": "Dorthy Chavez",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 98,
+      "Spending_Score_(1-100)": 25
+    },
+    {
+      "CustomerID": 402,
+      "Nombre": "Wendi Mata",
+      "Gender": "Male",
+      "Age": 67,
+      "Annual_Income": 86,
+      "Spending_Score_(1-100)": 62
+    },
+    {
+      "CustomerID": 403,
+      "Nombre": "Owen Hunter",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 27,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 404,
+      "Nombre": "Javier Melton",
+      "Gender": "Male",
+      "Age": 49,
+      "Annual_Income": 72,
+      "Spending_Score_(1-100)": 20
+    },
+    {
+      "CustomerID": 405,
+      "Nombre": "Otto Carr",
+      "Gender": "Female",
+      "Age": 21,
+      "Annual_Income": 113,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 406,
+      "Nombre": "Lucy Webb",
+      "Gender": "Female",
+      "Age": 66,
+      "Annual_Income": 141,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 407,
+      "Nombre": "Christoper Gaines",
+      "Gender": "Male",
+      "Age": 54,
+      "Annual_Income": 112,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 408,
+      "Nombre": "Marshall Mora",
+      "Gender": "Male",
+      "Age": 68,
+      "Annual_Income": 58,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 409,
+      "Nombre": "Houston Torres",
+      "Gender": "Male",
+      "Age": 66,
+      "Annual_Income": 118,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 410,
+      "Nombre": "Antone Archer",
+      "Gender": "Male",
+      "Age": 65,
+      "Annual_Income": 138,
+      "Spending_Score_(1-100)": 28
+    },
+    {
+      "CustomerID": 411,
+      "Nombre": "Dominique Perry",
+      "Gender": "Female",
+      "Age": 19,
+      "Annual_Income": 122,
+      "Spending_Score_(1-100)": 10
+    },
+    {
+      "CustomerID": 412,
+      "Nombre": "Pearlie Woodard",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 116,
+      "Spending_Score_(1-100)": 74
+    },
+    {
+      "CustomerID": 413,
+      "Nombre": "Isidro Mejia",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 414,
+      "Nombre": "Denny Chung",
+      "Gender": "Female",
+      "Age": 18,
+      "Annual_Income": 114,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 415,
+      "Nombre": "Allen Drake",
+      "Gender": "Female",
+      "Age": 19,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 97
+    },
+    {
+      "CustomerID": 416,
+      "Nombre": "Andres Thomas",
+      "Gender": "Female",
+      "Age": 63,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 8
+    },
+    {
+      "CustomerID": 417,
+      "Nombre": "Chi Hobbs",
+      "Gender": "Female",
+      "Age": 49,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 418,
+      "Nombre": "Jan Mcbride",
+      "Gender": "Female",
+      "Age": 51,
+      "Annual_Income": 59,
+      "Spending_Score_(1-100)": 93
+    },
+    {
+      "CustomerID": 419,
+      "Nombre": "Juan Miller",
+      "Gender": "Female",
+      "Age": 50,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 420,
+      "Nombre": "Benita Becker",
+      "Gender": "Male",
+      "Age": 27,
+      "Annual_Income": 114,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 421,
+      "Nombre": "Amie Mckee",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 49,
+      "Spending_Score_(1-100)": 65
+    },
+    {
+      "CustomerID": 422,
+      "Nombre": "Irwin Boone",
+      "Gender": "Female",
+      "Age": 40,
+      "Annual_Income": 150,
+      "Spending_Score_(1-100)": 53
+    },
+    {
+      "CustomerID": 423,
+      "Nombre": "Kris Lynch",
+      "Gender": "Male",
+      "Age": 39,
+      "Annual_Income": 53,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 424,
+      "Nombre": "Gena Hendrix",
+      "Gender": "Female",
+      "Age": 23,
+      "Annual_Income": 98,
+      "Spending_Score_(1-100)": 81
+    },
+    {
+      "CustomerID": 425,
+      "Nombre": "Mac Delacruz",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 114,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 426,
+      "Nombre": "Noe Gamble",
+      "Gender": "Male",
+      "Age": 43,
+      "Annual_Income": 88,
+      "Spending_Score_(1-100)": 7
+    },
+    {
+      "CustomerID": 427,
+      "Nombre": "Valentin Galloway",
+      "Gender": "Male",
+      "Age": 40,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 428,
+      "Nombre": "Wilma David",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 47,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 429,
+      "Nombre": "Jewel Robles",
+      "Gender": "Male",
+      "Age": 38,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 430,
+      "Nombre": "Nathanael Gardner",
+      "Gender": "Male",
+      "Age": 47,
+      "Annual_Income": 87,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 431,
+      "Nombre": "Jeremiah Lamb",
+      "Gender": "Male",
+      "Age": 39,
+      "Annual_Income": 128,
+      "Spending_Score_(1-100)": 21
+    },
+    {
+      "CustomerID": 432,
+      "Nombre": "Chad Ramirez",
+      "Gender": "Female",
+      "Age": 25,
+      "Annual_Income": 53,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 433,
+      "Nombre": "Reuben Good",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 434,
+      "Nombre": "Emilio Quinn",
+      "Gender": "Male",
+      "Age": 20,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 85
+    },
+    {
+      "CustomerID": 435,
+      "Nombre": "Claudette Grimes",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 121,
+      "Spending_Score_(1-100)": 4
+    },
+    {
+      "CustomerID": 436,
+      "Nombre": "Erna Walsh",
+      "Gender": "Female",
+      "Age": 44,
+      "Annual_Income": 118,
+      "Spending_Score_(1-100)": 1
+    },
+    {
+      "CustomerID": 437,
+      "Nombre": "Jesus Bates",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 438,
+      "Nombre": "Ty Garza",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 148,
+      "Spending_Score_(1-100)": 69
+    },
+    {
+      "CustomerID": 439,
+      "Nombre": "Tamara Atkinson",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 440,
+      "Nombre": "Laurel Espinoza",
+      "Gender": "Female",
+      "Age": 57,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 441,
+      "Nombre": "Hope Bowen",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 54
+    },
+    {
+      "CustomerID": 442,
+      "Nombre": "Salvador Ross",
+      "Gender": "Female",
+      "Age": 28,
+      "Annual_Income": 142,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 443,
+      "Nombre": "Alison Hansen",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 142,
+      "Spending_Score_(1-100)": 23
+    },
+    {
+      "CustomerID": 444,
+      "Nombre": "Darren Hahn",
+      "Gender": "Male",
+      "Age": 25,
+      "Annual_Income": 31,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 445,
+      "Nombre": "Archie Olson",
+      "Gender": "Male",
+      "Age": 28,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 446,
+      "Nombre": "Wanda Ferguson",
+      "Gender": "Male",
+      "Age": 48,
+      "Annual_Income": 127,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 447,
+      "Nombre": "Erwin Castaneda",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 108,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 448,
+      "Nombre": "Nanette Stokes",
+      "Gender": "Female",
+      "Age": 34,
+      "Annual_Income": 147,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 449,
+      "Nombre": "Paulette Rice",
+      "Gender": "Male",
+      "Age": 34,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 450,
+      "Nombre": "Arnold Novak",
+      "Gender": "Male",
+      "Age": 43,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 86
+    },
+    {
+      "CustomerID": 451,
+      "Nombre": "Stephen Oconnell",
+      "Gender": "Male",
+      "Age": 39,
+      "Annual_Income": 36,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 452,
+      "Nombre": "Jeramy Harrell",
+      "Gender": "Female",
+      "Age": 44,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 453,
+      "Nombre": "Penelope Mcpherson",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 130,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 454,
+      "Nombre": "Willa Wagner",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 98,
+      "Spending_Score_(1-100)": 31
+    },
+    {
+      "CustomerID": 455,
+      "Nombre": "Corine Diaz",
+      "Gender": "Female",
+      "Age": 27,
+      "Annual_Income": 115,
+      "Spending_Score_(1-100)": 81
+    },
+    {
+      "CustomerID": 456,
+      "Nombre": "Dion Robinson",
+      "Gender": "Male",
+      "Age": 37,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 457,
+      "Nombre": "Elnora Cantu",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 91,
+      "Spending_Score_(1-100)": 40
+    },
+    {
+      "CustomerID": 458,
+      "Nombre": "Reed Ward",
+      "Gender": "Male",
+      "Age": 34,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 459,
+      "Nombre": "Juanita Alvarado",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 150,
+      "Spending_Score_(1-100)": 65
+    },
+    {
+      "CustomerID": 460,
+      "Nombre": "Veronica Frost",
+      "Gender": "Female",
+      "Age": 56,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 461,
+      "Nombre": "Raphael Nixon",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 140,
+      "Spending_Score_(1-100)": 59
+    },
+    {
+      "CustomerID": 462,
+      "Nombre": "Simone Harvey",
+      "Gender": "Male",
+      "Age": 19,
+      "Annual_Income": 125,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 463,
+      "Nombre": "Delia Wilcox",
+      "Gender": "Female",
+      "Age": 31,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 9
+    },
+    {
+      "CustomerID": 464,
+      "Nombre": "Walker Kane",
+      "Gender": "Male",
+      "Age": 50,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 49
+    },
+    {
+      "CustomerID": 465,
+      "Nombre": "Wilford Marquez",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 115,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 466,
+      "Nombre": "Ernest Fields",
+      "Gender": "Male",
+      "Age": 42,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 467,
+      "Nombre": "Merle Le",
+      "Gender": "Female",
+      "Age": 33,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 30
+    },
+    {
+      "CustomerID": 468,
+      "Nombre": "Janine Erickson",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 469,
+      "Nombre": "Shelby Andrade",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 58,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 470,
+      "Nombre": "Wanda Sloan",
+      "Gender": "Male",
+      "Age": 40,
+      "Annual_Income": 125,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 471,
+      "Nombre": "Lester Bowman",
+      "Gender": "Male",
+      "Age": 28,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 472,
+      "Nombre": "Wilton Finley",
+      "Gender": "Male",
+      "Age": 36,
+      "Annual_Income": 91,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 473,
+      "Nombre": "Bryon Herring",
+      "Gender": "Male",
+      "Age": 36,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 474,
+      "Nombre": "Emma Bennett",
+      "Gender": "Female",
+      "Age": 52,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 475,
+      "Nombre": "Christy Bradshaw",
+      "Gender": "Female",
+      "Age": 30,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 476,
+      "Nombre": "Booker Mayer",
+      "Gender": "Male",
+      "Age": 58,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 31
+    },
+    {
+      "CustomerID": 477,
+      "Nombre": "Kathy Mcbride",
+      "Gender": "Male",
+      "Age": 27,
+      "Annual_Income": 25,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 478,
+      "Nombre": "Jerrold Pierce",
+      "Gender": "Male",
+      "Age": 59,
+      "Annual_Income": 116,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 479,
+      "Nombre": "Armando Cohen",
+      "Gender": "Male",
+      "Age": 35,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 480,
+      "Nombre": "Lonnie Woodward",
+      "Gender": "Female",
+      "Age": 37,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 481,
+      "Nombre": "Erna Stanley",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 30
+    },
+    {
+      "CustomerID": 482,
+      "Nombre": "Lesa Good",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 144,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 483,
+      "Nombre": "Robyn Hensley",
+      "Gender": "Female",
+      "Age": 29,
+      "Annual_Income": 130,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 484,
+      "Nombre": "Willis Roberts",
+      "Gender": "Female",
+      "Age": 41,
+      "Annual_Income": 34,
+      "Spending_Score_(1-100)": 53
+    },
+    {
+      "CustomerID": 485,
+      "Nombre": "Chet Rose",
+      "Gender": "Male",
+      "Age": 30,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 486,
+      "Nombre": "Barbara Frazier",
+      "Gender": "Female",
+      "Age": 54,
+      "Annual_Income": 105,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 487,
+      "Nombre": "Minnie Goodwin",
+      "Gender": "Male",
+      "Age": 28,
+      "Annual_Income": 138,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 488,
+      "Nombre": "Jose Gibson",
+      "Gender": "Female",
+      "Age": 41,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 489,
+      "Nombre": "Jacklyn Welch",
+      "Gender": "Female",
+      "Age": 36,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 490,
+      "Nombre": "Erin Wood",
+      "Gender": "Female",
+      "Age": 34,
+      "Annual_Income": 98,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 491,
+      "Nombre": "Lou Riggs",
+      "Gender": "Female",
+      "Age": 32,
+      "Annual_Income": 72,
+      "Spending_Score_(1-100)": 25
+    },
+    {
+      "CustomerID": 492,
+      "Nombre": "Carole Chapman",
+      "Gender": "Male",
+      "Age": 33,
+      "Annual_Income": 23,
+      "Spending_Score_(1-100)": 78
+    },
+    {
+      "CustomerID": 493,
+      "Nombre": "Elizabeth Irwin",
+      "Gender": "Female",
+      "Age": 38,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 494,
+      "Nombre": "Leslie Cortez",
+      "Gender": "Female",
+      "Age": 47,
+      "Annual_Income": 33,
+      "Spending_Score_(1-100)": 37
+    },
+    {
+      "CustomerID": 495,
+      "Nombre": "Anibal Lamb",
+      "Gender": "Female",
+      "Age": 35,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 1
+    },
+    {
+      "CustomerID": 496,
+      "Nombre": "Brandy Carpenter",
+      "Gender": "Female",
+      "Age": 45,
+      "Annual_Income": 55,
+      "Spending_Score_(1-100)": 44
+    },
+    {
+      "CustomerID": 497,
+      "Nombre": "Lacy Huynh",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 122,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 498,
+      "Nombre": "Lara Carr",
+      "Gender": "Male",
+      "Age": 32,
+      "Annual_Income": 51,
+      "Spending_Score_(1-100)": 82
+    },
+    {
+      "CustomerID": 499,
+      "Nombre": "Ernestine Schaefer",
+      "Gender": "Male",
+      "Age": 30,
+      "Annual_Income": 100,
+      "Spending_Score_(1-100)": 3
+    },
+    {
+      "CustomerID": 500,
+      "Nombre": "Kara Bates",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 501,
+      "Nombre": "Julius Zamora",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 46,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 502,
+      "Nombre": "Jane Nelson",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 79,
+      "Spending_Score_(1-100)": 82
+    },
+    {
+      "CustomerID": 503,
+      "Nombre": "Leigh Hogan",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 504,
+      "Nombre": "Deirdre Vaughn",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 111,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 505,
+      "Nombre": "Glen Zavala",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 106,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 506,
+      "Nombre": "Jean Kelley",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 80,
+      "Spending_Score_(1-100)": 19
+    },
+    {
+      "CustomerID": 507,
+      "Nombre": "Mercedes Mejia",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 57,
+      "Spending_Score_(1-100)": 6
+    },
+    {
+      "CustomerID": 508,
+      "Nombre": "Leo Krause",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 509,
+      "Nombre": "Dollie Garner",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 69,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 510,
+      "Nombre": "Omar Newman",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 146,
+      "Spending_Score_(1-100)": 10
+    },
+    {
+      "CustomerID": 511,
+      "Nombre": "Wilfred Conrad",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 118,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 512,
+      "Nombre": "Trenton Robinson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 20
+    },
+    {
+      "CustomerID": 513,
+      "Nombre": "Darron Rowe",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 144,
+      "Spending_Score_(1-100)": 6
+    },
+    {
+      "CustomerID": 514,
+      "Nombre": "Hollis Hansen",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 30,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 515,
+      "Nombre": "Rita Roy",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 137,
+      "Spending_Score_(1-100)": 18
+    },
+    {
+      "CustomerID": 516,
+      "Nombre": "Jesus Barron",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 92,
+      "Spending_Score_(1-100)": 85
+    },
+    {
+      "CustomerID": 517,
+      "Nombre": "Michelle Reed",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 95,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 518,
+      "Nombre": "Lesa Kidd",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 137,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 519,
+      "Nombre": "Mollie Barr",
+      "Gender": "Male",
+      "Age": 85,
+      "Annual_Income": 22,
+      "Spending_Score_(1-100)": 34
+    },
+    {
+      "CustomerID": 520,
+      "Nombre": "Kieth Cantu",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 521,
+      "Nombre": "Juliet Potts",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 15,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 522,
+      "Nombre": "Claudia French",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 523,
+      "Nombre": "Aaron Benton",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 524,
+      "Nombre": "Peggy Cisneros",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 126,
+      "Spending_Score_(1-100)": 6
+    },
+    {
+      "CustomerID": 525,
+      "Nombre": "Sterling Harrison",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 49,
+      "Spending_Score_(1-100)": 79
+    },
+    {
+      "CustomerID": 526,
+      "Nombre": "Luz Carey",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 90,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 527,
+      "Nombre": "Leroy Graves",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 62,
+      "Spending_Score_(1-100)": 12
+    },
+    {
+      "CustomerID": 528,
+      "Nombre": "Allen Scott",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 76,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 529,
+      "Nombre": "Beatriz Hawkins",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 70,
+      "Spending_Score_(1-100)": 50
+    },
+    {
+      "CustomerID": 530,
+      "Nombre": "Marquis Cline",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 531,
+      "Nombre": "Myrtle Khan",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 123,
+      "Spending_Score_(1-100)": 87
+    },
+    {
+      "CustomerID": 532,
+      "Nombre": "Nicholas Daugherty",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 15,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 533,
+      "Nombre": "James Christian",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 49,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 534,
+      "Nombre": "Terrance Lamb",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 535,
+      "Nombre": "Murray Briggs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 89,
+      "Spending_Score_(1-100)": 72
+    },
+    {
+      "CustomerID": 536,
+      "Nombre": "Warner Yates",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 124,
+      "Spending_Score_(1-100)": 10
+    },
+    {
+      "CustomerID": 537,
+      "Nombre": "Rashad Walker",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 109,
+      "Spending_Score_(1-100)": 12
+    },
+    {
+      "CustomerID": 538,
+      "Nombre": "Steve Wheeler",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 145,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 539,
+      "Nombre": "Milford Lester",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 74,
+      "Spending_Score_(1-100)": 69
+    },
+    {
+      "CustomerID": 540,
+      "Nombre": "Marion Burch",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 43
+    },
+    {
+      "CustomerID": 541,
+      "Nombre": "Virgie Lawson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 121,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 542,
+      "Nombre": "Sheila Dominguez",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 543,
+      "Nombre": "Judy Wolfe",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 66,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 544,
+      "Nombre": "Percy Hobbs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 150,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 545,
+      "Nombre": "Elvia Frederick",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 84,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 546,
+      "Nombre": "Aurora Kidd",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 71,
+      "Spending_Score_(1-100)": 67
+    },
+    {
+      "CustomerID": 547,
+      "Nombre": "Rosella Newton",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 149,
+      "Spending_Score_(1-100)": 95
+    },
+    {
+      "CustomerID": 548,
+      "Nombre": "Susie Ewing",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 37
+    },
+    {
+      "CustomerID": 549,
+      "Nombre": "Manual Fowler",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 128,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 550,
+      "Nombre": "Beatrice Bass",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 148,
+      "Spending_Score_(1-100)": 39
+    },
+    {
+      "CustomerID": 551,
+      "Nombre": "Jenna Reid",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 123,
+      "Spending_Score_(1-100)": 48
+    },
+    {
+      "CustomerID": 552,
+      "Nombre": "Irvin York",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 118,
+      "Spending_Score_(1-100)": 94
+    },
+    {
+      "CustomerID": 553,
+      "Nombre": "Gregg Davis",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 91,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 554,
+      "Nombre": "Rolando Wiley",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 555,
+      "Nombre": "Gail Barnes",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 79,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 556,
+      "Nombre": "Darwin Vance",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 65,
+      "Spending_Score_(1-100)": 86
+    },
+    {
+      "CustomerID": 557,
+      "Nombre": "Gilbert Perkins",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 147,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 558,
+      "Nombre": "Ray Malone",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 31
+    },
+    {
+      "CustomerID": 559,
+      "Nombre": "Arlen Cooper",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 31,
+      "Spending_Score_(1-100)": 37
+    },
+    {
+      "CustomerID": 560,
+      "Nombre": "Mavis Conway",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 89,
+      "Spending_Score_(1-100)": 53
+    },
+    {
+      "CustomerID": 561,
+      "Nombre": "Joanna Cherry",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 116,
+      "Spending_Score_(1-100)": 34
+    },
+    {
+      "CustomerID": 562,
+      "Nombre": "Jeff Meza",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 25,
+      "Spending_Score_(1-100)": 53
+    },
+    {
+      "CustomerID": 563,
+      "Nombre": "Katie Hunt",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 22,
+      "Spending_Score_(1-100)": 90
+    },
+    {
+      "CustomerID": 564,
+      "Nombre": "Jeanette Shea",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 131,
+      "Spending_Score_(1-100)": 65
+    },
+    {
+      "CustomerID": 565,
+      "Nombre": "Jerrod Huber",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 566,
+      "Nombre": "Jeri Carpenter",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 135,
+      "Spending_Score_(1-100)": 79
+    },
+    {
+      "CustomerID": 567,
+      "Nombre": "George Davies",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 568,
+      "Nombre": "Nicole Crosby",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 16,
+      "Spending_Score_(1-100)": 27
+    },
+    {
+      "CustomerID": 569,
+      "Nombre": "Jed Cohen",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 137,
+      "Spending_Score_(1-100)": 15
+    },
+    {
+      "CustomerID": 570,
+      "Nombre": "Rich Mckinney",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 31,
+      "Spending_Score_(1-100)": 89
+    },
+    {
+      "CustomerID": 571,
+      "Nombre": "Norris Simpson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 572,
+      "Nombre": "Teddy Salinas",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 131,
+      "Spending_Score_(1-100)": 4
+    },
+    {
+      "CustomerID": 573,
+      "Nombre": "Randall Rangel",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 56
+    },
+    {
+      "CustomerID": 574,
+      "Nombre": "Ola Pineda",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 124,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 575,
+      "Nombre": "Pasquale Ellis",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 86,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 576,
+      "Nombre": "Robby Stevens",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 95,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 577,
+      "Nombre": "Shawn Morgan",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 122,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 578,
+      "Nombre": "Verna Ayers",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 60,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 579,
+      "Nombre": "Celeste Mcknight",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 131,
+      "Spending_Score_(1-100)": 30
+    },
+    {
+      "CustomerID": 580,
+      "Nombre": "Samuel Barber",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 63
+    },
+    {
+      "CustomerID": 581,
+      "Nombre": "Mark Rowland",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 84,
+      "Spending_Score_(1-100)": 68
+    },
+    {
+      "CustomerID": 582,
+      "Nombre": "Palmer Hays",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 24,
+      "Spending_Score_(1-100)": 98
+    },
+    {
+      "CustomerID": 583,
+      "Nombre": "James Waller",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 38
+    },
+    {
+      "CustomerID": 584,
+      "Nombre": "Lester Frye",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 122,
+      "Spending_Score_(1-100)": 42
+    },
+    {
+      "CustomerID": 585,
+      "Nombre": "Eloise Spence",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 149,
+      "Spending_Score_(1-100)": 69
+    },
+    {
+      "CustomerID": 586,
+      "Nombre": "Grover Mcintyre",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 27,
+      "Spending_Score_(1-100)": 26
+    },
+    {
+      "CustomerID": 587,
+      "Nombre": "Emilio Dyer",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 588,
+      "Nombre": "Ernesto Riggs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 25,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 589,
+      "Nombre": "Roberto Miles",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 85,
+      "Spending_Score_(1-100)": 3
+    },
+    {
+      "CustomerID": 590,
+      "Nombre": "Milford Ramos",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 92
+    },
+    {
+      "CustomerID": 591,
+      "Nombre": "Marci Ibarra",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 2
+    },
+    {
+      "CustomerID": 592,
+      "Nombre": "Jayne Osborne",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 78,
+      "Spending_Score_(1-100)": 2
+    },
+    {
+      "CustomerID": 593,
+      "Nombre": "Jamar Stevenson",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 148,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 594,
+      "Nombre": "Wendell Baker",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 103,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 595,
+      "Nombre": "Isaac Vang",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 112,
+      "Spending_Score_(1-100)": 62
+    },
+    {
+      "CustomerID": 596,
+      "Nombre": "Joseph Drake",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 134,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 597,
+      "Nombre": "Bonita Mckenzie",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 35
+    },
+    {
+      "CustomerID": 598,
+      "Nombre": "Berta Hess",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 125,
+      "Spending_Score_(1-100)": 24
+    },
+    {
+      "CustomerID": 599,
+      "Nombre": "Shirley Sweeney",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 61,
+      "Spending_Score_(1-100)": 29
+    },
+    {
+      "CustomerID": 600,
+      "Nombre": "Noe Hogan",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 81,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 601,
+      "Nombre": "Nora Porter",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 125,
+      "Spending_Score_(1-100)": 30
+    },
+    {
+      "CustomerID": 602,
+      "Nombre": "Chandra Miranda",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 142,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 603,
+      "Nombre": "Devon Jarvis",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 150,
+      "Spending_Score_(1-100)": 46
+    },
+    {
+      "CustomerID": 604,
+      "Nombre": "Diego Glass",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 116,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 605,
+      "Nombre": "Tia Tran",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 63,
+      "Spending_Score_(1-100)": 96
+    },
+    {
+      "CustomerID": 606,
+      "Nombre": "Derick Boyd",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 75,
+      "Spending_Score_(1-100)": 17
+    },
+    {
+      "CustomerID": 607,
+      "Nombre": "Miranda Baxter",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 42,
+      "Spending_Score_(1-100)": 16
+    },
+    {
+      "CustomerID": 608,
+      "Nombre": "Madge Pitts",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 120,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 609,
+      "Nombre": "Cecilia Phillips",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 44,
+      "Spending_Score_(1-100)": 95
+    },
+    {
+      "CustomerID": 610,
+      "Nombre": "Lola Lambert",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 45,
+      "Spending_Score_(1-100)": 8
+    },
+    {
+      "CustomerID": 611,
+      "Nombre": "Kathie Mendoza",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 57
+    },
+    {
+      "CustomerID": 612,
+      "Nombre": "Ron Mooney",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 138,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 613,
+      "Nombre": "Alonzo Keith",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 74,
+      "Spending_Score_(1-100)": 93
+    },
+    {
+      "CustomerID": 614,
+      "Nombre": "Kristen Hardin",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 56,
+      "Spending_Score_(1-100)": 37
+    },
+    {
+      "CustomerID": 615,
+      "Nombre": "Lucius Rangel",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 39,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 616,
+      "Nombre": "Jeri Mcconnell",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 43,
+      "Spending_Score_(1-100)": 52
+    },
+    {
+      "CustomerID": 617,
+      "Nombre": "Xavier Peterson",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 100,
+      "Spending_Score_(1-100)": 65
+    },
+    {
+      "CustomerID": 618,
+      "Nombre": "Deshawn Liu",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 125,
+      "Spending_Score_(1-100)": 5
+    },
+    {
+      "CustomerID": 619,
+      "Nombre": "Cameron Mcclure",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 38,
+      "Spending_Score_(1-100)": 10
+    },
+    {
+      "CustomerID": 620,
+      "Nombre": "Clint Ferguson",
+      "Gender": "Female",
+      "Age": 85,
+      "Annual_Income": 17,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 621,
+      "Nombre": "Lucille Roach",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 92,
+      "Spending_Score_(1-100)": 22
+    },
+    {
+      "CustomerID": 622,
+      "Nombre": "Ericka Delacruz",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 61
+    },
+    {
+      "CustomerID": 623,
+      "Nombre": "Courtney Jefferson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 117,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 624,
+      "Nombre": "Benny Wilson",
+      "Gender": "Male",
+      "Age": 26,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 66
+    },
+    {
+      "CustomerID": 625,
+      "Nombre": "Gwen Webster",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 80,
+      "Spending_Score_(1-100)": 1
+    },
+    {
+      "CustomerID": 626,
+      "Nombre": "Leslie Graves",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 96,
+      "Spending_Score_(1-100)": 45
+    },
+    {
+      "CustomerID": 627,
+      "Nombre": "Mike Thompson",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 126,
+      "Spending_Score_(1-100)": 11
+    },
+    {
+      "CustomerID": 628,
+      "Nombre": "Ophelia Ford",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 111,
+      "Spending_Score_(1-100)": 71
+    },
+    {
+      "CustomerID": 629,
+      "Nombre": "Rosella Beck",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 86,
+      "Spending_Score_(1-100)": 22
+    },
+    {
+      "CustomerID": 630,
+      "Nombre": "Bud Davis",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 20,
+      "Spending_Score_(1-100)": 36
+    },
+    {
+      "CustomerID": 631,
+      "Nombre": "Ruth Pham",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 120,
+      "Spending_Score_(1-100)": 84
+    },
+    {
+      "CustomerID": 632,
+      "Nombre": "Franklyn Simpson",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 54,
+      "Spending_Score_(1-100)": 79
+    },
+    {
+      "CustomerID": 633,
+      "Nombre": "Aurelia Spence",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 29,
+      "Spending_Score_(1-100)": 55
+    },
+    {
+      "CustomerID": 634,
+      "Nombre": "Luann Rodriguez",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 32,
+      "Spending_Score_(1-100)": 33
+    },
+    {
+      "CustomerID": 635,
+      "Nombre": "Gerard Blanchard",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 48,
+      "Spending_Score_(1-100)": 47
+    },
+    {
+      "CustomerID": 636,
+      "Nombre": "Royce Brooks",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 52,
+      "Spending_Score_(1-100)": 22
+    },
+    {
+      "CustomerID": 637,
+      "Nombre": "Mauro Romero",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 133,
+      "Spending_Score_(1-100)": 66
+    },
+    {
+      "CustomerID": 638,
+      "Nombre": "Leta Atkins",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 117,
+      "Spending_Score_(1-100)": 1
+    },
+    {
+      "CustomerID": 639,
+      "Nombre": "Helga Jordan",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 92,
+      "Spending_Score_(1-100)": 77
+    },
+    {
+      "CustomerID": 640,
+      "Nombre": "Sheree Jacobs",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 74,
+      "Spending_Score_(1-100)": 99
+    },
+    {
+      "CustomerID": 641,
+      "Nombre": "Stacey Fischer",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 134,
+      "Spending_Score_(1-100)": 76
+    },
+    {
+      "CustomerID": 642,
+      "Nombre": "Melvin Petty",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 64,
+      "Spending_Score_(1-100)": 14
+    },
+    {
+      "CustomerID": 643,
+      "Nombre": "Tobias Rollins",
+      "Gender": "Male",
+      "Age": 46,
+      "Annual_Income": 97,
+      "Spending_Score_(1-100)": 20
+    },
+    {
+      "CustomerID": 644,
+      "Nombre": "Kari Franco",
+      "Gender": "Female",
+      "Age": 26,
+      "Annual_Income": 122,
+      "Spending_Score_(1-100)": 58
+    },
+    {
+      "CustomerID": 645,
+      "Nombre": "Brain Blake",
+      "Gender": "Male",
+      "Age": 70,
+      "Annual_Income": 28,
+      "Spending_Score_(1-100)": 60
+    },
+    {
+      "CustomerID": 646,
+      "Nombre": "Taylor Copeland",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 92,
+      "Spending_Score_(1-100)": 73
+    },
+    {
+      "CustomerID": 647,
+      "Nombre": "Emilio Richmond",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 102,
+      "Spending_Score_(1-100)": 83
+    },
+    {
+      "CustomerID": 648,
+      "Nombre": "Marla Lamb",
+      "Gender": "Female",
+      "Age": 46,
+      "Annual_Income": 150,
+      "Spending_Score_(1-100)": 75
+    },
+    {
+      "CustomerID": 649,
+      "Nombre": "Merlin Roberts",
+      "Gender": "Female",
+      "Age": 70,
+      "Annual_Income": 110,
+      "Spending_Score_(1-100)": 50
+    }
+  ]

@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+}
+
+.space{
+  margin-top: 500px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 50px 20px;
+  color: white;
+}
+
+.get-started-button {
+  background-color: #61dafb;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.get-started-button:hover {
+  background-color: #42a5f5;
+}
+
+.features-section {
+  padding: 40px 0;
+}
+
+.feature {
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.feature h2 {
+  margin-bottom: 15px;
+}
+
+.footer {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.point-a,
+.point-b {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.point-a {
+  left: 20px; /* Adjust as needed */
+}
+
+.point-b {
+  right: 20px; /* Adjust as needed */
+}
+
+.line {
+  position: absolute;
+  left: calc(20px + 100px); /* Adjust based on the position of point A and its width */
+  right: calc(20px + 100px); /* Adjust based on the position of point B and its width */
+  top: 50%;
+  height: 2px;
+  background-color: black;
+  transform: translateY(-1px); /* Adjust based on the line thickness */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.packet {
+  position: absolute;
+  top: calc(50% - 10px); /* Adjust based on the size of your packet */
+  left: 0;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+  transition: left 0.5s linear; /* Adjust duration as needed */
+}
+
+.animate {
+  left: calc(100% - 20px); /* Adjust based on the size of your packet */
+}
+
+
+.router,.pc{
+  height: 100px;
+  width: 100px;
+
+}
