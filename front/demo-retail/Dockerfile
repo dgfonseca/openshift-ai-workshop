@@ -15,6 +15,7 @@ USER root
 WORKDIR /usr/local/bin
 
 COPY --from=prod /app/build /usr/share/nginx/html
+COPY ./default.conf /etc/nginx/conf.d/
 
 RUN chgrp -R 0 /usr && chmod -R g=u /usr && chmod -R +rwX /usr
 RUN chgrp -R 0 /etc/nginx && chmod -R g=u /etc/nginx && chmod -R g+rwX /etc/nginx
