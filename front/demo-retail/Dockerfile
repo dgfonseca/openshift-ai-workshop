@@ -13,6 +13,9 @@ RUN npm run build
 
 FROM nginx:alpine
 
+USER ROOT
+
+RUN chgrp -R 0 /usr && chmod -R g=u /usr && chmod -R +rwX /usr
 WORKDIR /usr/local/bin
 
 COPY --from=prod /app/build /usr/share/nginx/html
