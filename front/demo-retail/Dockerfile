@@ -16,6 +16,8 @@ FROM nginx:alpine
 USER root
 
 RUN chgrp -R 0 /usr && chmod -R g=u /usr && chmod -R +rwX /usr
+RUN chgrp -R 0 /etc/nginx && chmod -R g=u /etc/nginx && chmod -R +rwX /etc/nginx
+RUN chgrp -R 0 /var/cache/nginx && chmod -R g=u /var/cache/ngnix && chmod -R +rwX /var/cache/nginx
 WORKDIR /usr/local/bin
 
 COPY --from=prod /app/build /usr/share/nginx/html
