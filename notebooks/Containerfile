@@ -1,0 +1,10 @@
+FROM quay.io/opendatahub/workbench-images:jupyter-datascience-ubi9-python-3.9-2023b-20240513
+COPY requirements.txt ./
+
+RUN echo "Installing softwares and packages" && \
+    pip install micropipenv && \
+    micropipenv install && \
+    rm -f ./requirements.txt
+
+RUN chmod -R g+w /opt/app-root/lib/python3.9/site-packages && \
+    fix-permissions /opt/app-root -P
