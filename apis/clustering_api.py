@@ -31,11 +31,11 @@ CORS(app)
 
 s3 = boto3.resource('s3',endpoint_url = AWS_S3_ENDPOINT +":9000",aws_access_key_id=AWS_ACCESS_KEY_ID,aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
 
-s3.Bucket(BUCKET).download_file('kmeansModel.pkl','./s3_model/kmeansModel.pkl')
-s3.Bucket(BUCKET).download_file('classificationTree.pkl','./s3_model/classificationTree.pkl')
+s3.Bucket(BUCKET).download_file('kmeansModel.pkl','./kmeansModel.pkl')
+s3.Bucket(BUCKET).download_file('classificationTree.pkl','./classificationTree.pkl')
 
-MODEL = joblib.load("./s3_model/kmeansModel.pkl")
-MODEL2 = joblib.load("./s3_model/classificationTree.pkl")
+MODEL = joblib.load("./kmeansModel.pkl")
+MODEL2 = joblib.load("./classificationTree.pkl")
 
 
 @app.route('/predict', methods = {'POST'})
