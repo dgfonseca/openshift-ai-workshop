@@ -59,3 +59,4 @@ virtualenv==20.25.0
 wcwidth==0.2.13
 Werkzeug==3.0.2
 zipp==3.18.1
+boto3==1.28.85
