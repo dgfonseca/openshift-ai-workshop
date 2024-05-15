@@ -6,7 +6,7 @@ from flask_cors import CORS,cross_origin
 import pandas as pd
 import json
 
-# import boto3, os
+import boto3, os
 
 # these are the env variable injected by Red Hat Data Science based on your Data Connection settings. 
 # env variables injected
@@ -16,25 +16,26 @@ import json
 # AWS_S3_BUCKET=demo-project
 # AWS_ACCESS_KEY_ID=minio
  
-# BUCKET = "demo-files" #os.getenv("AWS_S3_BUCKET")
-# HTTP = 'http://'
-# AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
-# AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
-# REGIONNAME = os.getenv("AWS_DEFAULT_REGION")
-# AWS_S3_ENDPOINT = os.getenv("AWS_S3_ENDPOINT")
+# BUCKET = "demo-files" 
+BUCKET = os.getenv("AWS_S3_BUCKET")
+HTTP = 'http://'
+AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
+AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
+REGIONNAME = os.getenv("AWS_DEFAULT_REGION")
+AWS_S3_ENDPOINT = os.getenv("AWS_S3_ENDPOINT")
 
 #Creating our FlaskAPP
 app = Flask(__name__)
 CORS(app)
 # Load the model
+
+s3 = boto3.resource('s3',endpoint_url = AWS_S3_ENDPOINT +":9000",aws_access_key_id=AWS_ACCESS_KEY_ID,aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
+
+s3.Bucket(BUCKET).download_file('kmeansModel.pkl','./s3_model/kmeansModel.pkl')
+s3.Bucket(BUCKET).download_file('classificationTree.pkl','./s3_model/classificationTree.pkl')
+
 MODEL = joblib.load("./s3_model/kmeansModel.pkl")
 MODEL2 = joblib.load("./s3_model/classificationTree.pkl")
-
-# s3 = boto3.resource('s3',endpoint_url = AWS_S3_ENDPOINT +":9000",aws_access_key_id=AWS_ACCESS_KEY_ID,aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
-
-# s3.Bucket(BUCKET).download_file('kmeansModel.pkl','./s3_model/kmeansModel.pkl')
-
-# MODEL = joblib.load("./s3_model/kmeansModel.pkl")
 
 
 @app.route('/predict', methods = {'POST'})
@@ -123,13 +124,8 @@ def convert_to_float(number_str):
         return number_str
 
 def convert_labels(df):
-    df['dur'] = df['dur'].apply(convert_to_float)
-    df['sload'] = df['sload'].apply(convert_to_float)
-    df['dload'] = df['dload'].apply(convert_to_float)
-    df['sjit'] = df['sjit'].apply(convert_to_float)
-    df['djit'] = df['djit'].apply(convert_to_float)
-    df['sinpkt'] = df['sinpkt'].apply(convert_to_float)
-    df['dinpkt'] = df['dinpkt'].apply(convert_to_float)
+    for column in df:
+        df[column]=df[column].apply(convert_to_float)
     return df
 
 
@@ -137,6 +133,7 @@ def convert_labels(df):
 def predict2():
 
     try:
+        print(request.json)
         data = request.json["packets"]
         df = json_to_dataframe(data)
         df = categoric_to_numeric(df)
@@ -148,13 +145,12 @@ def predict2():
         result = MODEL2.named_steps['tree'].predict(X)
         df["label"]=(pd.Series(result, name='prediction'))
         json_response = json.loads(df.to_json(orient='records'))
-        print(type(json_response))
         request.json["packets"]=json_response
         res=jsonify(request.json)
         res.headers.add('Access-Control-Allow-Origin', '*')
         return res
     except Exception as e:
-        print(e.with_traceback)
+        print(e)
         return jsonify({"success": False, "message": str(e)})
 
 

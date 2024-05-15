@@ -1,4 +1,5 @@
-import React, { useState,useRef  } from 'react';
+import React, { useState,useRef,useCallback  } from 'react';
+import { executeModel } from '../api/api';
 import '../style/App.css'; // Import CSS file for styling
 import pc from '../images/pc.png';
 import router from '../images/router.png';
@@ -6,6 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import data2 from '../data/data.json';
+
 
 
 
@@ -13,17 +16,37 @@ const App = () => {
   const [isAnimating, setIsAnimating] = useState(false);
   const packetRef = useRef(null);
 
+  const [show, setShow]=useState();
+
+  const [data,setData]=useState(data2)
+
+  const handleChangePredict = useCallback((newValue) => {
+    setData(newValue);
+  },[data]);
+
 
   const startAnimation = () => {
     setIsAnimating(true);
     // Logic to animate packet from point A to point B
     packetRef.current.classList.add('animate');
+    predict(data)
   };
 
   const resetAnimation = () => {
     setIsAnimating(false);
     // Remove the animation class to reset the animation
     packetRef.current.classList.remove('animate');
+  };
+
+  const predict = async (pdata) =>{
+    try{
+      const result = await executeModel({clients:pdata});
+      setShow("Predict")
+      setData(result.data["packets"])
+      console.log(data)
+    }catch(e){
+      console.log(e)
+    }
   };
 
   return (
@@ -52,7 +75,6 @@ const App = () => {
         </div>
       </section>
       <main>
-        <div className="space"></div>
         <Container>
           <Row>
             <Col>
@@ -63,14 +85,15 @@ const App = () => {
               <div className="point-b">
                 <img src={router} alt="Router" className='router'/>
               </div>
-              {!isAnimating ? (
-        <button onClick={startAnimation}>Start</button>
-      ) : (
-        <button onClick={resetAnimation}>Reset</button>
-      )}
               <div className="packet" ref={packetRef}></div>
+              {!isAnimating ? (
+        <button button onClick={startAnimation}>Start</button>
+        ) : (
+          <button onClick={resetAnimation}>Reset</button>
+        )}
             </Col>
           </Row>
+          
         </Container>
       </main>
     </div>

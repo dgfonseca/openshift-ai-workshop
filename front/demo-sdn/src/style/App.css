@@ -57,7 +57,7 @@
 }
 .point-a,
 .point-b {
-  position: absolute;
+  position: fixed;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -71,7 +71,7 @@
 }
 
 .line {
-  position: absolute;
+  position: fixed;
   left: calc(20px + 100px); /* Adjust based on the position of point A and its width */
   right: calc(20px + 100px); /* Adjust based on the position of point B and its width */
   top: 50%;
@@ -81,6 +81,7 @@
 }
 
 button {
+  position: fixed;
   padding: 10px 20px;
   font-size: 16px;
   background-color: #007bff;
@@ -90,7 +91,7 @@ button {
 }
 
 .packet {
-  position: absolute;
+  position: fixed;
   top: calc(50% - 10px); /* Adjust based on the size of your packet */
   left: 0;
   width: 20px;
