@@ -73,6 +73,50 @@ def json_to_dataframe(json_data):
         print("Error:", e)
         return None
 
+def numeric_to_categoric(data_set):
+    arr = ['udp', 'arp', 'tcp', 'ospf', 'icmp', 'igmp', 'sctp', 'udt', 'sep',
+       'swipe', 'sun-nd', 'mobile', 'pim', 'rtp', 'ip', 'ipnip', 'ggp',
+       'st2', 'egp', 'cbt', 'emcon', 'igp', 'xnet', 'nvp', 'argus',
+       'bbn-rcc', 'chaos', 'pup', 'hmp', 'mux', 'dcn', 'prm', 'trunk-1',
+       'xns-idp', 'trunk-2', 'leaf-1', 'leaf-2', 'irtp', 'rdp', 'iso-tp4',
+       'netblt', 'mfe-nsp', 'merit-inp', '3pc', 'idpr', 'xtp', 'tp++',
+       'ddp', 'idpr-cmtp', 'ipv6', 'il', 'idrp', 'ipv6-frag', 'sdrp',
+       'ipv6-route', 'gre', 'rsvp', 'mhrp', 'bna', 'esp', 'i-nlsp',
+       'narp', 'ipv6-no', 'tlsp', 'skip', 'ipv6-opts', 'any', 'cftp',
+       'sat-expak', 'kryptolan', 'rvd', 'ippc', 'sat-mon', 'ipcv', 'visa',
+       'cpnx', 'cphb', 'wsn', 'pvp', 'br-sat-mon', 'wb-mon', 'wb-expak',
+       'iso-ip', 'secure-vmtp', 'vmtp', 'vines', 'ttp', 'nsfnet-igp',
+       'dgp', 'tcf', 'eigrp', 'sprite-rpc', 'larp', 'mtp', 'ax.25',
+       'ipip', 'micp', 'aes-sp3-d', 'encap', 'etherip', 'pri-enc', 'gmtp',
+       'pnni', 'ifmp', 'aris', 'qnx', 'a/n', 'scps', 'compaq-peer',
+       'ipcomp', 'snp', 'ipx-n-ip', 'vrrp', 'zero', 'pgm', 'iatp', 'ddx',
+       'l2tp', 'srp', 'stp', 'smp', 'uti', 'sm', 'ptp', 'crtp', 'isis',
+       'fire', 'crudp', 'sccopmce', 'pipe', 'sps', 'iplt', 'unas', 'fc',
+       'ib']
+    arr2 = []
+    for i in range(0,135):
+        arr2.append(i)
+        
+    data_set['proto'] = data_set['proto'].replace(arr2,arr)
+
+    data_set["state"].unique()
+    arr = ['CON', 'INT', 'FIN', 'URH', 'REQ', 'ECO', 'RST', 'CLO', 'TXD',
+        'URN', 'no', 'ACC', 'PAR', 'MAS', 'TST', 'ECR']
+    arr2 = []
+
+    for i in range(0,len(arr)):
+        arr2.append(i)
+    data_set["state"] = data_set['state'].replace(arr2,arr)
+
+    arr = ['dns', '-', 'http', 'smtp', 'ftp-data', 'ftp', 'ssh', 'pop3',
+        'snmp', 'ssl', 'irc', 'radius', 'dhcp']
+
+    arr2=[]
+    for i in range(0,len(arr)):
+        arr2.append(i)
+    data_set["service"] = data_set['service'].replace(arr2,arr)
+    return data_set
+
 def categoric_to_numeric(data_set):
     arr = ['udp', 'arp', 'tcp', 'ospf', 'icmp', 'igmp', 'sctp', 'udt', 'sep',
        'swipe', 'sun-nd', 'mobile', 'pim', 'rtp', 'ip', 'ipnip', 'ggp',
@@ -131,11 +175,10 @@ def convert_labels(df):
 
 @app.route('/predict2', methods = {'POST'})
 def predict2():
-
     try:
-        print(request.json)
         data = request.json["packets"]
         df = json_to_dataframe(data)
+        df = df.sample(frac=.2)
         df = categoric_to_numeric(df)
         df = convert_labels(df)
         scaler_steps = MODEL2.named_steps['scaler']
@@ -144,6 +187,7 @@ def predict2():
         X = data_set.drop(columns=["label"])
         result = MODEL2.named_steps['tree'].predict(X)
         df["label"]=(pd.Series(result, name='prediction'))
+        df=numeric_to_categoric(df)
         json_response = json.loads(df.to_json(orient='records'))
         request.json["packets"]=json_response
         res=jsonify(request.json)

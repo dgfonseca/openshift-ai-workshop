@@ -8,6 +8,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import data2 from '../data/data.json';
+import CustomList from './CustomList'
 
 
 
@@ -34,20 +35,29 @@ const App = () => {
 
   const resetAnimation = () => {
     setIsAnimating(false);
+    setShow("")
     // Remove the animation class to reset the animation
     packetRef.current.classList.remove('animate');
+    setData(data2)
   };
 
   const predict = async (pdata) =>{
     try{
-      const result = await executeModel({clients:pdata});
-      setShow("Predict")
+      const result = await executeModel(pdata);
       setData(result.data["packets"])
-      console.log(data)
+      setShow("Predict")
     }catch(e){
       console.log(e)
     }
   };
+
+  
+
+  function showPredict(){
+    if(show==="Predict"){
+      return <CustomList data2={data} onChange={handleChangePredict}/>
+    }
+  }
 
   return (
     <div className="App">
@@ -93,7 +103,9 @@ const App = () => {
         )}
             </Col>
           </Row>
-          
+          <Row>
+          {showPredict()}
+          </Row>
         </Container>
       </main>
     </div>
